@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\data\\source\\mvs\\repos\\LCFE\\LevelEditor\\Game.csproj": {}
+    "E:\\Projects\\GitHub\\Arkanoid\\Game.csproj": {}
   },
   "projects": {
-    "C:\\data\\source\\mvs\\repos\\LCFE\\LevelEditor\\Game.csproj": {
+    "E:\\Projects\\GitHub\\Arkanoid\\Game.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\data\\source\\mvs\\repos\\LCFE\\LevelEditor\\Game.csproj",
+        "projectUniqueName": "E:\\Projects\\GitHub\\Arkanoid\\Game.csproj",
         "projectName": "Game",
-        "projectPath": "C:\\data\\source\\mvs\\repos\\LCFE\\LevelEditor\\Game.csproj",
-        "packagesPath": "C:\\Users\\RAIGNEIER\\.nuget\\packages\\",
-        "outputPath": "C:\\data\\source\\mvs\\repos\\LCFE\\LevelEditor\\obj\\",
+        "projectPath": "E:\\Projects\\GitHub\\Arkanoid\\Game.csproj",
+        "packagesPath": "C:\\Users\\raigpc\\.nuget\\packages\\",
+        "outputPath": "E:\\Projects\\GitHub\\Arkanoid\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\RAIGNEIER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\raigpc\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -64,7 +64,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }
