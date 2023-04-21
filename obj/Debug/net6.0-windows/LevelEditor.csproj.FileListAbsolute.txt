@@ -1,0 +1,17 @@
+C:\data\source\mvs\repos\LCFE\LevelEditor\bin\Debug\net6.0-windows\LevelEditor.exe
+C:\data\source\mvs\repos\LCFE\LevelEditor\bin\Debug\net6.0-windows\LevelEditor.deps.json
+C:\data\source\mvs\repos\LCFE\LevelEditor\bin\Debug\net6.0-windows\LevelEditor.runtimeconfig.json
+C:\data\source\mvs\repos\LCFE\LevelEditor\bin\Debug\net6.0-windows\LevelEditor.dll
+C:\data\source\mvs\repos\LCFE\LevelEditor\bin\Debug\net6.0-windows\LevelEditor.pdb
+C:\data\source\mvs\repos\LCFE\LevelEditor\obj\Debug\net6.0-windows\LevelEditor.csproj.AssemblyReference.cache
+C:\data\source\mvs\repos\LCFE\LevelEditor\obj\Debug\net6.0-windows\LevelEditor.Form1.resources
+C:\data\source\mvs\repos\LCFE\LevelEditor\obj\Debug\net6.0-windows\LevelEditor.csproj.GenerateResource.cache
+C:\data\source\mvs\repos\LCFE\LevelEditor\obj\Debug\net6.0-windows\LevelEditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\data\source\mvs\repos\LCFE\LevelEditor\obj\Debug\net6.0-windows\LevelEditor.AssemblyInfoInputs.cache
+C:\data\source\mvs\repos\LCFE\LevelEditor\obj\Debug\net6.0-windows\LevelEditor.AssemblyInfo.cs
+C:\data\source\mvs\repos\LCFE\LevelEditor\obj\Debug\net6.0-windows\LevelEditor.csproj.CoreCompileInputs.cache
+C:\data\source\mvs\repos\LCFE\LevelEditor\obj\Debug\net6.0-windows\LevelEditor.dll
+C:\data\source\mvs\repos\LCFE\LevelEditor\obj\Debug\net6.0-windows\refint\LevelEditor.dll
+C:\data\source\mvs\repos\LCFE\LevelEditor\obj\Debug\net6.0-windows\LevelEditor.pdb
+C:\data\source\mvs\repos\LCFE\LevelEditor\obj\Debug\net6.0-windows\LevelEditor.genruntimeconfig.cache
+C:\data\source\mvs\repos\LCFE\LevelEditor\obj\Debug\net6.0-windows\ref\LevelEditor.dll

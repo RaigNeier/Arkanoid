@@ -1,0 +1,384 @@
+{
+  "BackgroundColor": "SlateGray",
+  "Blocks": [
+    {
+      "Location": "160, 192",
+      "Color": "255, 128, 128",
+      "Size": "16, 16",
+      "Border": true,
+      "Shadow": true
+    },
+    {
+      "Location": "160, 152",
+      "Color": "255, 128, 128",
+      "Size": "16, 16",
+      "Border": true,
+      "Shadow": true
+    },
+    {
+      "Location": "120, 192",
+      "Color": "255, 128, 128",
+      "Size": "16, 16",
+      "Border": true,
+      "Shadow": true
+    },
+    {
+      "Location": "160, 112",
+      "Color": "255, 128, 128",
+      "Size": "16, 16",
+      "Border": true,
+      "Shadow": true
+    },
+    {
+      "Location": "120, 112",
+      "Color": "255, 128, 128",
+      "Size": "16, 16",
+      "Border": true,
+      "Shadow": true
+    },
+    {
+      "Location": "80, 112",
+      "Color": "255, 128, 128",
+      "Size": "16, 16",
+      "Border": true,
+      "Shadow": true
+    },
+    {
+      "Location": "80, 192",
+      "Color": "255, 128, 128",
+      "Size": "16, 16",
+      "Border": true,
+      "Shadow": true
+    },
+    {
+      "Location": "80, 152",
+      "Color": "255, 128, 128",
+      "Size": "16, 16",
+      "Border": true,
+      "Shadow": true
+    },
+    {
+      "Location": "272, 192",
+      "Color": "255, 128, 128",
+      "Size": "16, 16",
+      "Border": true,
+      "Shadow": true
+    },
+    {
+      "Location": "352, 192",
+      "Color": "255, 128, 128",
+      "Size": "16, 16",
+      "Border": true,
+      "Shadow": true
+    },
+    {
+      "Location": "352, 112",
+      "Color": "255, 128, 128",
+      "Size": "16, 16",
+      "Border": true,
+      "Shadow": true
+    },
+    {
+      "Location": "352, 152",
+      "Color": "255, 128, 128",
+      "Size": "16, 16",
+      "Border": true,
+      "Shadow": true
+    },
+    {
+      "Location": "272, 112",
+      "Color": "255, 128, 128",
+      "Size": "16, 16",
+      "Border": true,
+      "Shadow": true
+    },
+    {
+      "Location": "272, 152",
+      "Color": "255, 128, 128",
+      "Size": "16, 16",
+      "Border": true,
+      "Shadow": true
+    },
+    {
+      "Location": "312, 112",
+      "Color": "255, 128, 128",
+      "Size": "16, 16",
+      "Border": true,
+      "Shadow": true
+    },
+    {
+      "Location": "464, 192",
+      "Color": "255, 128, 128",
+      "Size": "16, 16",
+      "Border": true,
+      "Shadow": true
+    },
+    {
+      "Location": "464, 152",
+      "Color": "255, 128, 128",
+      "Size": "16, 16",
+      "Border": true,
+      "Shadow": true
+    },
+    {
+      "Location": "464, 112",
+      "Color": "255, 128, 128",
+      "Size": "16, 16",
+      "Border": true,
+      "Shadow": true
+    },
+    {
+      "Location": "544, 112",
+      "Color": "255, 128, 128",
+      "Size": "16, 16",
+      "Border": true,
+      "Shadow": true
+    },
+    {
+      "Location": "544, 192",
+      "Color": "255, 128, 128",
+      "Size": "16, 16",
+      "Border": true,
+      "Shadow": true
+    },
+    {
+      "Location": "544, 152",
+      "Color": "255, 128, 128",
+      "Size": "16, 16",
+      "Border": true,
+      "Shadow": true
+    },
+    {
+      "Location": "504, 112",
+      "Color": "255, 128, 128",
+      "Size": "16, 16",
+      "Border": true,
+      "Shadow": true
+    },
+    {
+      "Location": "504, 192",
+      "Color": "255, 128, 128",
+      "Size": "16, 16",
+      "Border": true,
+      "Shadow": true
+    },
+    {
+      "Location": "312, 192",
+      "Color": "255, 128, 128",
+      "Size": "16, 16",
+      "Border": true,
+      "Shadow": true
+    },
+    {
+      "Location": "96, 128",
+      "Color": "0, 128, 255",
+      "Size": "64, 64",
+      "Border": true,
+      "Shadow": true
+    },
+    {
+      "Location": "120, 152",
+      "Color": "128, 255, 128",
+      "Size": "16, 16",
+      "Border": true,
+      "Shadow": true
+    },
+    {
+      "Location": "80, 96",
+      "Color": "Silver",
+      "Size": "48, 16",
+      "Border": true,
+      "Shadow": true
+    },
+    {
+      "Location": "128, 96",
+      "Color": "Silver",
+      "Size": "48, 16",
+      "Border": true,
+      "Shadow": true
+    },
+    {
+      "Location": "176, 112",
+      "Color": "Silver",
+      "Size": "16, 48",
+      "Border": true,
+      "Shadow": true
+    },
+    {
+      "Location": "64, 112",
+      "Color": "Silver",
+      "Size": "16, 48",
+      "Border": true,
+      "Shadow": true
+    },
+    {
+      "Location": "64, 160",
+      "Color": "Silver",
+      "Size": "16, 48",
+      "Border": true,
+      "Shadow": true
+    },
+    {
+      "Location": "176, 160",
+      "Color": "Silver",
+      "Size": "16, 48",
+      "Border": true,
+      "Shadow": true
+    },
+    {
+      "Location": "80, 208",
+      "Color": "Silver",
+      "Size": "48, 16",
+      "Border": true,
+      "Shadow": true
+    },
+    {
+      "Location": "128, 208",
+      "Color": "Silver",
+      "Size": "48, 16",
+      "Border": true,
+      "Shadow": true
+    },
+    {
+      "Location": "272, 96",
+      "Color": "Silver",
+      "Size": "48, 16",
+      "Border": true,
+      "Shadow": true
+    },
+    {
+      "Location": "320, 96",
+      "Color": "Silver",
+      "Size": "48, 16",
+      "Border": true,
+      "Shadow": true
+    },
+    {
+      "Location": "256, 112",
+      "Color": "Silver",
+      "Size": "16, 48",
+      "Border": true,
+      "Shadow": true
+    },
+    {
+      "Location": "256, 160",
+      "Color": "Silver",
+      "Size": "16, 48",
+      "Border": true,
+      "Shadow": true
+    },
+    {
+      "Location": "368, 112",
+      "Color": "Silver",
+      "Size": "16, 48",
+      "Border": true,
+      "Shadow": true
+    },
+    {
+      "Location": "368, 160",
+      "Color": "Silver",
+      "Size": "16, 48",
+      "Border": true,
+      "Shadow": true
+    },
+    {
+      "Location": "272, 208",
+      "Color": "Silver",
+      "Size": "48, 16",
+      "Border": true,
+      "Shadow": true
+    },
+    {
+      "Location": "320, 208",
+      "Color": "Silver",
+      "Size": "48, 16",
+      "Border": true,
+      "Shadow": true
+    },
+    {
+      "Location": "464, 96",
+      "Color": "Silver",
+      "Size": "48, 16",
+      "Border": true,
+      "Shadow": true
+    },
+    {
+      "Location": "512, 96",
+      "Color": "Silver",
+      "Size": "48, 16",
+      "Border": true,
+      "Shadow": true
+    },
+    {
+      "Location": "448, 112",
+      "Color": "Silver",
+      "Size": "16, 48",
+      "Border": true,
+      "Shadow": true
+    },
+    {
+      "Location": "448, 160",
+      "Color": "Silver",
+      "Size": "16, 48",
+      "Border": true,
+      "Shadow": true
+    },
+    {
+      "Location": "560, 112",
+      "Color": "Silver",
+      "Size": "16, 48",
+      "Border": true,
+      "Shadow": true
+    },
+    {
+      "Location": "560, 160",
+      "Color": "Silver",
+      "Size": "16, 48",
+      "Border": true,
+      "Shadow": true
+    },
+    {
+      "Location": "464, 208",
+      "Color": "Silver",
+      "Size": "48, 16",
+      "Border": true,
+      "Shadow": true
+    },
+    {
+      "Location": "512, 208",
+      "Color": "Silver",
+      "Size": "48, 16",
+      "Border": true,
+      "Shadow": true
+    },
+    {
+      "Location": "480, 128",
+      "Color": "0, 128, 255",
+      "Size": "64, 64",
+      "Border": true,
+      "Shadow": true
+    },
+    {
+      "Location": "504, 152",
+      "Color": "128, 255, 128",
+      "Size": "16, 16",
+      "Border": true,
+      "Shadow": true
+    },
+    {
+      "Location": "288, 128",
+      "Color": "0, 128, 255",
+      "Size": "64, 64",
+      "Border": true,
+      "Shadow": true
+    },
+    {
+      "Location": "312, 152",
+      "Color": "128, 255, 128",
+      "Size": "16, 16",
+      "Border": true,
+      "Shadow": true
+    }
+  ],
+  "Size": "0, 0"
+}

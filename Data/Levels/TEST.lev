@@ -1,0 +1,41 @@
+{
+  "BackgroundColor": "102, 121, 153",
+  "Blocks": [
+    {
+      "Location": "480, 64",
+      "Color": "255, 128, 128",
+      "Size": "32, 32",
+      "Border": false,
+      "Shadow": true
+    },
+    {
+      "Location": "384, 64",
+      "Color": "255, 128, 192",
+      "Size": "32, 32",
+      "Border": false,
+      "Shadow": true
+    },
+    {
+      "Location": "416, 96",
+      "Color": "0, 128, 255",
+      "Size": "32, 32",
+      "Border": true,
+      "Shadow": false
+    },
+    {
+      "Location": "448, 96",
+      "Color": "128, 255, 255",
+      "Size": "32, 32",
+      "Border": false,
+      "Shadow": true
+    },
+    {
+      "Location": "416, 128",
+      "Color": "255, 255, 128",
+      "Size": "32, 32",
+      "Border": false,
+      "Shadow": true
+    }
+  ],
+  "Size": "0, 0"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WQsKbhQN3oVOqmv6K5otko6IMYQkDHYBogaWuzHZZjxPrO/yNrsJR3OhMSnTND/EnsqLDeUF/t7ogiWY1V9rLw==",
+  "success": true,
+  "projectFilePath": "C:\\data\\source\\mvs\\repos\\LCFE\\LevelEditor\\Game.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RAIGNEIER\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
